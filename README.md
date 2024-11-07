@@ -1,6 +1,7 @@
 # Hosted Link
 https://yourhr-23d32.web.app/
 
+YourHR is a website that provides assistances to HRs of any Company in Recieving the Resume/CV of numerous candidates.
 
 # Getting Started with Create React App
 
